@@ -1,0 +1,6 @@
+<?php
+return array(
+    'apiKey'      => 'your-api-key',
+    'apiSecret'   => 'your-api-secret',
+    'permissions' => 'delete',
+);
